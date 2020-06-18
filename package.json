@@ -13,7 +13,7 @@
   "author": "Enzo",
   "license": "ISC",
   "dependencies": {
-    "angular": ">=1.7.9",
+    "angular": ">=1.8.0",
     "angular-css-injector": "^1.0.4",
     "bootstrap": ">=3.4.1",
     "braces": ">=2.3.1",
